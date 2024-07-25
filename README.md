@@ -1,7 +1,8 @@
 # Penjualan-Tabung-Gas-CV-SIdo-Muncul-Gas-SDMG
 
-
+ERD
 ![ERD](https://github.com/user-attachments/assets/4205ef00-889f-473c-846b-c015146319a1)
+
 
 
 Sido Muncul Gas merupakan agen penjualan dan isi ulang tabung yang berlokasi Jl. Nasional 14, Setiggen, Wujil, Kec. Bergas, Kabupaten Semarang, Jawa Tengah 50552. Jenis tabung yang dijual atau yang tersedia yaitu pengisian ulang Oksigen(O2), Argon(Ar), Acetylene (C2H2), CO2, N2, dan juga menyediakan tabung baru. Sistem yang digunakan pada usaha ini yaitu penyewaan, namun jika memiliki tabung sendiri maka konsumen dapat hanya menitipkan untuk mengisikan tabung mereka.
