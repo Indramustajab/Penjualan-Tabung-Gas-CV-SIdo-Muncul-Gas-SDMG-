@@ -1,4 +1,5 @@
-# Penjualan-Tabung-Gas-CV-SIdo-Muncul-Gas-SDMG
+># Penjualan Tabung Gas CV SIdo Muncul Gas SDMG
+>>Deskripsi dan Alur Bisnis
 
 ERD
 ![ERD](https://github.com/user-attachments/assets/4205ef00-889f-473c-846b-c015146319a1)
